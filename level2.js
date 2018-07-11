@@ -4,5 +4,8 @@ console.log("Level 2");
 let perempuan = "gaun"
 let pria = "kemeja"
 
-let hasilA = ""
+let hasilA = "Pakain Pesta " + perempuan + " dan " + pria
+let hasilB = `${perempuan} ${pria}`
+console.log(hasilA)
+console.log(hasilB)
 
